@@ -1,0 +1,19 @@
+.all-products-section {
+    padding: 3rem 1rem;
+    text-align: center;
+  }
+  
+  .all-products-section h2 {
+    margin-bottom: 2rem;
+    color: #222;
+    font-size: 2rem;
+    font-weight: 600;
+  }
+  
+  .all-products-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.5rem;
+    justify-content: center;
+  }
+  
